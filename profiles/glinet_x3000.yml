@@ -30,6 +30,7 @@ packages:
   - gl-sdk4-ui-bluetoothremotemanage
   - gl-sdk4-ui-bluetoothreport
   - gl-sdk4-ui-bluetoothsettings
+  - gl-sdk4-ui-modemsignallog
 
 diffconfig: |
   CONFIG_PACKAGE_gl-sdk4-ui-btnsettings=n
