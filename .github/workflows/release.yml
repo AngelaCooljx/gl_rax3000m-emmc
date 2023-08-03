@@ -9,9 +9,7 @@ name: Create Release
 jobs:
   build:
     name: Create Release
-    runs-on:
-      group: Default
-      labels: ci-server
+    runs-on: ci-server
     timeout-minutes: 720
     steps:
       - name: Checkout code
