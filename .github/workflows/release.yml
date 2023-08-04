@@ -10,6 +10,8 @@ jobs:
   build:
     name: Create Release
     runs-on: ci-server
+    permissions:
+      contents: read
     timeout-minutes: 720
     steps:
       - name: Checkout code
