@@ -4,4 +4,4 @@ feeds:
     revision: 9654671f8960795787cbd70e827f9c9afeac1d38
   - name: glinet
     uri: https://gitlab.com/gl.sdk4.0/gl.router/gl-sdk4-collect.git
-    revision: e51d0936327ac6da65ea48c0cf125430b96e75b0
+    revision: c9e9a893821e47ff0cc794e34a3b98271654a6c6
