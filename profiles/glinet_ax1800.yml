@@ -4,7 +4,7 @@ description: Add the glinet dependencies
 feeds:
   - name: glinet
     uri: http://192.168.17.119:888/gl.sdk4.0/gl.router/gl-sdk4-collect.git
-    revision: abbb28e3b620c5cb0d3a9b5c8823a55fd37954c0
+    revision: 237275a598a40c0701672283bf2d3f237fd6c153
 
 packages:
   - i2c-tools
